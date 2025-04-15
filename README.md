@@ -6,7 +6,7 @@
 
 ## Contents
 
-1. Hello Dart Programming world!
+1. [Hello Dart programming world!](/ex1/content.md)
 1. アプリ開発の準備をしよう
 1. テンプレートを改造してみよう
 1. 画面遷移をしてみよう
