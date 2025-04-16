@@ -14,6 +14,13 @@
 1. (Extra2) データを保存しよう
 1. (Extra3) より良い UI/UX を目指して
 
+## References
+
+このチュートリアルは、以下の記事を参考に作成しています。
+
+- [いちから始める Flutter モバイルアプリ開発](https://zenn.dev/heyhey1028/books/flutter-basics)
+- [週刊 Flutter 大学](https://blog.flutteruniv.com/)
+
 ## Contact
 
 **Plat** (旧 Outtech105)
