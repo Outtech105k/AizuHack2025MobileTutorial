@@ -6,13 +6,28 @@
 
 ## Contents
 
-1. Hello Dart Programming world!
-1. アプリ開発の準備をしよう
+### 第1回
+1. [Hello Dart programming world!](/ex1/content.md)
+2. アプリ開発の準備をしよう
+
+### 第2~3回
+
 1. テンプレートを改造してみよう
-1. 画面遷移をしてみよう
-1. (Extra1) インターネットと繋げよう
-1. (Extra2) データを保存しよう
-1. (Extra3) より良い UI/UX を目指して
+2. 画面遷移をしてみよう
+
+### 第4回
+**Extra**(希望者がいれば開催します)
+
+1. インターネットと繋げよう
+2. データを保存しよう
+3. より良い UI/UX を目指して
+
+## References
+
+このチュートリアルは、以下の記事を参考に作成しています。
+
+- [いちから始める Flutter モバイルアプリ開発](https://zenn.dev/heyhey1028/books/flutter-basics)
+- [週刊 Flutter 大学](https://blog.flutteruniv.com/)
 
 ## Contact
 
@@ -23,4 +38,4 @@
 ## License
 
 MIT ライセンスを使用します。
-これを元に、さらにわかりやすく、多くの情報を扱うチュートリアルになれば嬉しいです。
+これを元に、さらにわかりやすく多くの情報を扱うチュートリアルになれば嬉しいです。
